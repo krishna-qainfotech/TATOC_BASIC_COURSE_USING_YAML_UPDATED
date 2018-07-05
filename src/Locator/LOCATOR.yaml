@@ -1,0 +1,26 @@
+---
+#we will make HashMap<TYPE,HashMap<NAME,Value>>)
+linkText:
+   -Basic_course_button:Basic Course
+   -Repaint_button:Repaint Box 2
+   -Proceed_button:Proceed
+   -DragAndDrop_Proceed_button:Proceed
+   -Popup_windows_button:Launch Popup Window
+   -Generate_token_link:Generate Token
+
+className:
+   -Green_gridbox:greenbox
+   -Red_gridbox:redbox
+
+id:
+   -First_box_color:answer
+   -Second_box_color:answer
+   -Dragbox_element:dragbox
+   -Dropbox_element:dropbox
+   -Input_field:name
+   -Submit_button:submit
+   -Token:token
+
+cssSelector:
+   -Message:body > div > div.page > span                                                                        
+...
